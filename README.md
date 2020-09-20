@@ -1,4 +1,4 @@
-<a href="www.brainntnu.no"><img src="https://i.imgur.com/S9pM24h.png" width=240 align="right"></a>
+<a href="https://www.brainntnu.no"><img src="https://i.imgur.com/S9pM24h.png" width=240 align="right"></a>
 # Data Science Course
 
 Internkurs i Data Science - BRAIN NTNU 2020
