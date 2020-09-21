@@ -1,4 +1,6 @@
+<a href="https://www.brainntnu.no"><img src="https://i.imgur.com/S9pM24h.png" width=240 align="right"></a>
 # Data Science Course
+
 Internkurs i Data Science - BRAIN NTNU 2020
 
 ## Setup
@@ -30,7 +32,7 @@ Using virtualenv allows you to avoid installing Python packages globally which c
 
 1. Install virtualenv, if not already installed: `pip install virtualenv`
 2. Create new environment in `data-science-course/`: `virtualenv venv`
-3. Activate new environment: `source venv/bin/activate`
+3. Activate new environment: `source venv/bin/activate` on Mac, or equivalently `venv\Scripts\activate.bat` on Windows. 
 4. Install packages that is needed for course: `pip install -r requirements.txt`
 5. Add new virtual environment to Jupyter: `python -m ipykernel install --user --name=venv`
 6. Start jupyter notebook: `jupyter notebook`
