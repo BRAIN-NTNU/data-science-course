@@ -28,7 +28,7 @@ Download Jupyter Notebook (official tutorial [here](https://jupyter.org/install.
 ### Setup Python environment
 
 We use [`virtualenv`](https://virtualenv.pypa.io/en/latest/index.html) is to manage Python packages for different projects. 
-Using virtualenv allows you to avoid installing Python packages globally which could break system tools or other projects. You can also just install the packages specified in the `requirements.txt` globally if you want. Assuming Python 3 already installed.
+Using virtualenv allows you to avoid installing Python packages globally which could break system tools or other projects. You can also just install the packages specified in the `requirements.txt` globally if you want. Assuming Python 3 already installed. Use `pip` or `pip3` for the commands below, depending on your local environment.
 
 1. Install virtualenv, if not already installed: `pip install virtualenv`
 2. Create new environment in `data-science-course/`: `virtualenv venv`
